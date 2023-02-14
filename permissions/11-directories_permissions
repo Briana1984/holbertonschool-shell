@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R 755 /holbertonschool-shell/*
+chown -R 731 /holbertonschool-shell/*
