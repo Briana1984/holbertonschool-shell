@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R 731 /holbertonschool-shell/*
+chmod ugo+x .
