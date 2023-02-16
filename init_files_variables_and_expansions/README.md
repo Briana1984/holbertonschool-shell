@@ -1,0 +1,1 @@
+with these commands we can define and call variables
